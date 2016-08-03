@@ -37,9 +37,9 @@
                 </configuration>
             </plugin>
            <plugin>
-		  <groupId>org.codehaus.cargo</groupId>
-		  <artifactId>cargo-maven2-plugin</artifactId>
-		  <version>1.5.0</version>
+		  <groupId>org.jboss.as.plugins</groupId>
+		  <artifactId>jboss-as-maven-plugin</artifactId>
+	  	  <version>7.0.2.Final</version>
 		  <configuration>
 		    <container>
 		      <containerId>jboss7x</containerId>
