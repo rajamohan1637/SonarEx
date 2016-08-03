@@ -34,7 +34,7 @@ subprojects {
 }
 
 cargo {
-    containerId = 'jboss71x'
+    containerId = 'jboss7x'
     port = 8069
     remote {
         hostname = 'localhost'
